@@ -1,1 +1,2 @@
-print "hello github!!!"
+print "hello www.github.com!!!"
+print "you are a loser!"
